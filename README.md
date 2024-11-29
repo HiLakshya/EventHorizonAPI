@@ -51,8 +51,8 @@ The **Event Management System API** is a robust backend service designed for man
 1. **Clone the Repository** :
 
 ```bash
-   git clone https://github.com/your-repo/event-management-api.git
-   cd event-management-api
+   https://github.com/HiLakshya/EventHorizonAPI.git
+   cd EventHorizonAPI
 ```
 
 1. **Install Dependencies** :
